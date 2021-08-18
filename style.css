@@ -1,0 +1,40 @@
+body {
+    max-width: 34em;
+    margin: 2.25rem;
+    font-size: 1.25em;
+}
+
+/* Pre and Code */
+pre {
+    background-color: #f1f1f1;
+    display: block;
+    padding: 1em;
+    overflow-x: auto;
+    margin-top: 0px;
+    margin-bottom: 2.5rem; }
+
+code {
+    font-size: 0.9em;
+    padding: 0 0.5em;
+    background-color: #f1f1f1;
+    white-space: pre-wrap; }
+
+pre > code {
+    padding: 0;
+    background-color: transparent;
+    white-space: pre; }
+
+
+/* nav */
+
+nav {
+    margin-top: 2.0em;
+    margin-bottom: 1.5em;
+}
+
+
+nav > ul li {
+    display: inline;
+    list-style-type: none;
+}
+
