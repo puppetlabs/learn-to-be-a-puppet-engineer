@@ -1,0 +1,2 @@
+$var = 'blah'
+$var = 'blubb'
