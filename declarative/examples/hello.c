@@ -1,4 +1,4 @@
-# include <stdio.h>
+#include <stdio.h>
 
 int main(int argc, const char **argv) {
   if (argc == 2) {
@@ -6,5 +6,5 @@ int main(int argc, const char **argv) {
   } else {
     printf("Hello, World!\n");
   }
-	return 0;
+  return 0;
 }
