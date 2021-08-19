@@ -13,7 +13,8 @@
 
 ## [Declarative coding concepts](declarative/)
 
-- Resource uniqueness & idempotence
+- [Resource idempotence](declarative/idempotence/)
+- Resource uniqueness
 - The type, title and namevar of a resource
 - The types and providers abstraction layer
 - Idempotent exec resources
