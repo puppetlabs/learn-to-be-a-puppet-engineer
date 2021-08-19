@@ -11,7 +11,7 @@
 - Puppet-language functions
 - Relationships and ordering
 
-## Declarative coding concepts
+## [Declarative coding concepts](declarative/)
 
 - Resource uniqueness & idempotence
 - The type, title and namevar of a resource
