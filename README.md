@@ -9,7 +9,7 @@
 - Defined types
 - Advanced function usage (lambdas)
 - Puppet-language functions
-- Relationships and ordering
+- [Relationships and ordering](puppet/relationships-and-ordering.md)
 
 ## [Declarative coding concepts](declarative/)
 
