@@ -89,7 +89,7 @@
 # Coding Best Practices
 
 - Style and naming conventions
-- The roles and profiles pattern
+- [The roles and profiles pattern](coding-best-practices/roles-and-profiles.md)
 - Component modules and how they are different from profiles
 - Composition of profiles to reduce duplication (i.e. profile::base vs profile::base::windows)
 - Data separation using hiera

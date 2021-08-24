@@ -1,13 +1,14 @@
 # Make document
 
 PANDOC = pandoc -s --css=style.css -f markdown --highlight-style=tango --syntax-definition=puppet.xml
+TOHTML = $(PANDOC) -t html --lua-filter=links-to-html.lua
 TITLE = "Declarative Coding Concepts"
 INDEX ?= README.md
 
-SRCDIRS = . declarative declarative/idempotence
+SRCDIRS = . declarative declarative/idempotence coding-best-practices
 
-SOURCES := $(addsuffix /$(INDEX),$(SRCDIRS))
-TARGETS := $(addsuffix /index.html,$(SRCDIRS))
+SOURCES := $(shell find . -type f -name \*.md)
+TARGETS := $(subst README,index,$(patsubst %.md,%.html,$(SOURCES)))
 
 all: html
 html: $(TARGETS)
@@ -17,9 +18,9 @@ clean:
 	rm -f -- $(TARGETS)
 
 index.html : README.md
-	$(PANDOC) -t html -o $@ $<
+	$(TOHTML) -t html -o $@ $<
 %/index.html : %/README.md
-	$(PANDOC) -t html -o $@ $<
+	$(TOHTML) -t html -o $@ $<
 %.html : %.md
-	$(PANDOC) -t html -o $@ $<
+	$(TOHTML) -t html -o $@ $<
 
