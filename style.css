@@ -1,7 +1,19 @@
 body {
+    background-color: #fffff8;
+    font-family: sans-serif;
+    color: #111;
     max-width: 34em;
     margin: 2.25rem;
     font-size: 1.25em;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: serif;
+}
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #151515;
+        color: #ddd;
+    }
 }
 
 /* Pre and Code */
@@ -17,7 +29,15 @@ code {
     font-size: 0.9em;
     padding: 0 0.5em;
     background-color: #f1f1f1;
-    white-space: pre-wrap; }
+    white-space: pre-wrap;
+}
+
+@media (prefers-color-scheme: dark) {
+    pre, code {
+        background-color: #eee;
+        color: #151515;
+    }
+}
 
 pre > code {
     padding: 0;
