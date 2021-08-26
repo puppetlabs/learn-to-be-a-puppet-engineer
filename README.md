@@ -2,9 +2,9 @@
 
 ## Language constructs
 
-- [ Resource type syntax ](puppet/resource-type-syntax.md)
+- [Resource type syntax](puppet/resource-type-syntax.md)
 - Conditional logic
-- Variables and scope
+- [Variables and scope](puppet/variables-and-scope.md)
 - Data types
 - Defined types
 - Advanced function usage (lambdas)
