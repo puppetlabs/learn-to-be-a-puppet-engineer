@@ -99,6 +99,6 @@
 
 # Workflow
 
-- Git workflows using r10k
+- [Git workflows using r10k](workflow/git-workflow-r10k.md)
 - Workflows using CD4PE
 - Custom deployment policies to implement advanced deployments
