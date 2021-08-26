@@ -17,7 +17,7 @@
 - Resource uniqueness
 - The type, title and namevar of a resource
 - The types and providers abstraction layer
-- Idempotent exec resources
+- [Idempotent exec resources](declarative/idempotence/exec-resources.md)
 
 ## Tasks
 
