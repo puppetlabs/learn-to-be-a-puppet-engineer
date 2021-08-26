@@ -95,7 +95,7 @@
 - Composition of profiles to reduce duplication (i.e. profile::base vs profile::base::windows)
 - [Data separation using hiera](coding-best-practice/data-separation-using-hiera.md)
 - Hiera hierarchy design (how many layers, common patterns etc.)
-- Handling of sensitive data
+- [Handling of sensitive data](coding-best-practice/handling-sensitive-data.md)
 
 # Workflow
 
