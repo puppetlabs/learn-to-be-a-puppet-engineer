@@ -13,7 +13,7 @@ html: site $(TARGETS)
 
 .PHONY: clean
 clean:
-	rm -f -- site
+	rm -rf -- site
 
 site/index.html : README.md
 	$(TOHTML) -t html -o $@ $<
