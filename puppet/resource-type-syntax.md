@@ -2,7 +2,7 @@
 
 ## Documentation
 
-https://puppet.com/docs/puppet/latest/lang_resources.html
+<https://puppet.com/docs/puppet/latest/lang_resources.html>
 
 ## Education
 

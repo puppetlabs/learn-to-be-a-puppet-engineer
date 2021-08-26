@@ -2,9 +2,8 @@
 
 ## Documentation
 
-https://puppet.com/docs/puppet/latest/hiera.html
-
-https://puppet.com/blog/hiera-data-and-puppet-code-your-path-right-data-decisions/
+- <https://puppet.com/docs/puppet/latest/hiera.html>
+- <https://puppet.com/blog/hiera-data-and-puppet-code-your-path-right-data-decisions/>
 
 ## Education
 

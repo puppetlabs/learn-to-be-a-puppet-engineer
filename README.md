@@ -90,10 +90,10 @@
 # Coding Best Practices
 
 - Style and naming conventions
-- [The roles and profiles pattern](coding-best-practices/roles-and-profiles.md)
+- [The roles and profiles pattern](coding-best-practice/roles-and-profiles.md)
 - Component modules and how they are different from profiles
 - Composition of profiles to reduce duplication (i.e. profile::base vs profile::base::windows)
-- [Data separation using hiera](coding-best-practices/data-separation-using-hiera.md)
+- [Data separation using hiera](coding-best-practice/data-separation-using-hiera.md)
 - Hiera hierarchy design (how many layers, common patterns etc.)
 - Handling of sensitive data
 

@@ -2,7 +2,7 @@
 
 ## Documentation
 
-https://puppet.com/docs/pe/2021.2/installing_pe.html
+<https://puppet.com/docs/pe/2021.2/installing_pe.html>
 
 ## Education
 
