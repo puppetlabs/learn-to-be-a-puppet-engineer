@@ -84,7 +84,7 @@
 ## APIs
 
 - Which API endpoints are available and what they do
-- How APIs are used in the normal operation of Puppet
+- [How APIs are used in the normal operation of Puppet](apis/how.md)
 - Puppet DB queries & PQL
 
 # Coding Best Practices
