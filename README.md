@@ -46,7 +46,7 @@
 
 ## Puppet-specific ruby
 
-- Custom facts
+- [Custom facts](puppet-ruby/custom-facts.md)
 - Custom functions
 - Rspec-puppet and testing
 - Types and providers
