@@ -5,7 +5,7 @@
 - [Resource type syntax](puppet/resource-type-syntax.md)
 - Conditional logic
 - [Variables and scope](puppet/variables-and-scope.md)
-- Data types
+- [Data types](puppet/data-types.md)
 - Defined types
 - Advanced function usage (lambdas)
 - Puppet-language functions
@@ -21,7 +21,7 @@
 
 ## Tasks
 
-- Passing parameters
+- [Passing parameters](tasks/passing-parameters.md)
 - Parring parameters using powershell (fairly different)
 - Returning data from tasks
 - Secure coding practices (avoiding code injection attacks)
