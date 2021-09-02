@@ -28,7 +28,7 @@
 
 ## Plans
 
-- Basic plan writing
+- [Basic plan writing](plans/basic-plan-writing.md)
 - Exception handling in plans
 - Scatter-gather, reduction (i.e. leaving behind failed nodes but continuing with others) and other imperative orchestration techniques
 - Returning data from a plan
