@@ -71,7 +71,7 @@
    - Certificate authority
    - Puppetdb
    - Postgresql
-   - Code manager
+   - [Code manager](puppet-enterprise/micro-architecture/code-manager.md)
    - File sync
 - Tuning and scaling, typical load patterns
 - Proxies and their effect on PE communications
