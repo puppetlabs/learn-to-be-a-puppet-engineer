@@ -36,7 +36,7 @@
 
 # Ruby
 
-## Ruby basics
+## [Ruby basics](ruby/README.md)
 
 - Debugging & exploring ruby using pry (Use this to begin teaching people since they will be used to using a REPL and Pry is nice and UNIX-ey)
 - Conditional logic
