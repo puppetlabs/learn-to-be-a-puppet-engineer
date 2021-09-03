@@ -48,7 +48,7 @@
 
 - [Custom facts](puppet-ruby/custom-facts.md)
 - Custom functions
-- Rspec-puppet and testing
+- [Rspec-puppet and testing](puppet-ruby/rspec-puppet-testing.md)
 - Types and providers
 - Puppet faces?
 - Custom report processors?
