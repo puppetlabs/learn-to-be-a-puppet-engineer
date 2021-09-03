@@ -6,7 +6,7 @@
 
 ## Education
 
-There's a one-day training-course on how to install PE.
+We only have a half-day training on *upgrading* PE.
 
 ## Other
 
