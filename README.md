@@ -22,7 +22,7 @@
 ## Tasks
 
 - [Passing parameters](tasks/passing-parameters.md)
-- Parring parameters using powershell (fairly different)
+- [Passing parameters using powershell](tasks/passing-parameters-powershell.md)
 - Returning data from tasks
 - Secure coding practices (avoiding code injection attacks)
 
