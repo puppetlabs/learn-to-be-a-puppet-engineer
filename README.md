@@ -100,5 +100,6 @@
 # Workflow
 
 - [Git workflows using r10k](workflow/git-workflow-r10k.md)
+- [Development Practices for Ops](workflow/dev-practices-for-ops.md)
 - Workflows using CD4PE
 - Custom deployment policies to implement advanced deployments
