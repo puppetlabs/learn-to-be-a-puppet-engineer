@@ -87,6 +87,12 @@
 - [How APIs are used in the normal operation of Puppet](apis/how.md)
 - Puppet DB queries & PQL
 
+# Puppet Application Manager
+
+- [Kubernetes](pam/kubernetes.md)
+- [Installing CD4PE](pam/install-cd4pe.md)
+- [Installing Comply](pam/install-comply.md)
+
 # Coding Best Practices
 
 - [Style and naming conventions](coding-best-practice/style-and-naming-conventions.md)
