@@ -83,7 +83,7 @@
 
 ## APIs
 
-- Which API endpoints are available and what they do
+- [Which API endpoints are available and what they do](apis/)
 - [How APIs are used in the normal operation of Puppet](apis/how.md)
 - [Puppet DB queries & PQL](apis/puppet-db-queries-pql.md)
 
