@@ -65,7 +65,7 @@
    - Bolt-Server
    - Orchestration-services
    - PXP
-   - Puppetserver
+   - [Puppetserver](puppet-enterprise/micro-architecture/puppet-server.md)
    - Console-services
    - RBAC
    - Certificate authority
