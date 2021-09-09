@@ -49,7 +49,7 @@
 - [Custom facts](puppet-ruby/custom-facts.md)
 - Custom functions
 - [Rspec-puppet and testing](puppet-ruby/rspec-puppet-testing.md)
-- Types and providers
+- [Types and providers](puppet/types-and-providers.md)
 - Puppet faces?
 - Custom report processors?
 - Custom hiera backends?
