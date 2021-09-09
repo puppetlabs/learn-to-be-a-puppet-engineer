@@ -100,7 +100,7 @@
 - Component modules and how they are different from profiles
 - Composition of profiles to reduce duplication (i.e. profile::base vs profile::base::windows)
 - [Data separation using hiera](coding-best-practice/data-separation-using-hiera.md)
-- Hiera hierarchy design (how many layers, common patterns etc.)
+- [Hiera hierarchy design](coding-best-practice/hiera-hierarchy-design.md)
 - [Handling of sensitive data](coding-best-practice/handling-sensitive-data.md)
 
 # Workflow
