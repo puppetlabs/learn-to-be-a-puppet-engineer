@@ -85,7 +85,7 @@
 
 - Which API endpoints are available and what they do
 - [How APIs are used in the normal operation of Puppet](apis/how.md)
-- Puppet DB queries & PQL
+- [Puppet DB queries & PQL](apis/puppet-db-queries-pql.md)
 
 # Puppet Application Manager
 
