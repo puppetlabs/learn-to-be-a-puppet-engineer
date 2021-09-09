@@ -70,7 +70,7 @@
    - RBAC
    - Certificate authority
    - [Puppetdb](puppet-enterprise/micro-architecture/puppet-db.md)
-   - Postgresql
+   - [Postgresql](puppet-enterprise/micro-architecture/postgresql.md)
    - [Code manager](puppet-enterprise/micro-architecture/code-manager.md)
    - File sync
 - Tuning and scaling, typical load patterns
