@@ -69,7 +69,7 @@
    - Console-services
    - RBAC
    - Certificate authority
-   - Puppetdb
+   - [Puppetdb](puppet-enterprise/micro-architecture/puppet-db.md)
    - Postgresql
    - [Code manager](puppet-enterprise/micro-architecture/code-manager.md)
    - File sync
