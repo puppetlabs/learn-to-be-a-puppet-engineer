@@ -6,7 +6,7 @@
 - [Conditional logic](puppet/conditional-logic.md)
 - [Variables and scope](puppet/variables-and-scope.md)
 - [Data types](puppet/data-types.md)
-- Defined types
+- [Defined types](puppet/defined-types.md)
 - Advanced function usage (lambdas)
 - Puppet-language functions
 - [Relationships and ordering](puppet/relationships-and-ordering.md)
