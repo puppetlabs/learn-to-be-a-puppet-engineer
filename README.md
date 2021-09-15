@@ -8,7 +8,7 @@
 - [Data types](puppet/data-types.md)
 - [Defined types](puppet/defined-types.md)
 - Advanced function usage (lambdas)
-- Puppet-language functions
+- [Puppet-language functions](puppet/puppet-language-functions.md)
 - [Relationships and ordering](puppet/relationships-and-ordering.md)
 
 ## [Declarative coding concepts](declarative/)
