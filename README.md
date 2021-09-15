@@ -32,7 +32,7 @@
 - [Error handling in plans](plans/error-handling-in-plans.md)
 - [Scatter-gather, reduction](plans/scatter-gather-reduction.md)
 - Returning data from a plan
-- Composition of plans (plans that run plans)
+- [Composition of plans](plans/composition-of-plans.md) (plans that run plans)
 - [Secure coding practices](plans/secure-code-practices.md)
 
 # Ruby
