@@ -33,6 +33,7 @@
 - Scatter-gather, reduction (i.e. leaving behind failed nodes but continuing with others) and other imperative orchestration techniques
 - Returning data from a plan
 - Composition of plans (plans that run plans)
+- [Secure coding practices](plans/secure-code-practices.md)
 
 # Ruby
 
