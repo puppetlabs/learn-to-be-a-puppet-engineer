@@ -52,7 +52,7 @@
 - [Types and providers](puppet/types-and-providers.md)
 - Puppet faces?
 - Custom report processors?
-- Custom hiera backends?
+- [Custom hiera backends](puppet-ruby/custom-hiera-backends.md)
 
 # Puppet Enterprise
 
