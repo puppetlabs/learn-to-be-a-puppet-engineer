@@ -3,7 +3,7 @@
 ## Language constructs
 
 - [Resource type syntax](puppet/resource-type-syntax.md)
-- Conditional logic
+- [Conditional logic](puppet/conditional-logic.md)
 - [Variables and scope](puppet/variables-and-scope.md)
 - [Data types](puppet/data-types.md)
 - Defined types
