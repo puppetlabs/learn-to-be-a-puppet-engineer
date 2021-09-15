@@ -29,7 +29,7 @@
 ## Plans
 
 - [Basic plan writing](plans/basic-plan-writing.md)
-- Exception handling in plans
+- [Error handling in plans](plans/error-handling-in-plans.md)
 - Scatter-gather, reduction (i.e. leaving behind failed nodes but continuing with others) and other imperative orchestration techniques
 - Returning data from a plan
 - Composition of plans (plans that run plans)
