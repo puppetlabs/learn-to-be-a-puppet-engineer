@@ -1,5 +1,7 @@
 # Secure Code Practices
 
+avoiding code injection attacks
+
 ## Documentation
 
 <https://puppet.com/docs/bolt/latest/writing_tasks.html#secure-coding-practices-for-tasks>

@@ -24,7 +24,7 @@
 - [Passing parameters](tasks/passing-parameters.md)
 - [Passing parameters using powershell](tasks/passing-parameters-powershell.md)
 - Returning data from tasks
-- Secure coding practices (avoiding code injection attacks)
+- [Secure coding practices](tasks/secure-code-practices.md)
 
 ## Plans
 
@@ -33,7 +33,6 @@
 - [Scatter-gather, reduction](plans/scatter-gather-reduction.md)
 - [Returning data from a plan](plans/returning-data-from-plans.md)
 - [Composition of plans](plans/composition-of-plans.md) (plans that run plans)
-- [Secure coding practices](plans/secure-code-practices.md)
 
 # Ruby
 
