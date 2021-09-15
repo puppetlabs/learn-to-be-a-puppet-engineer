@@ -61,7 +61,7 @@
 - [Installing PE](puppet-enterprise/installing-pe.md)
 - [Macro architecture](puppet-enterprise/macro-architecture.md) i.e. compilers, primary, secondary
 - [Micro architecture](puppet-enterprise/micro-architecture/), what services do, how they are configured, what are their dependencies, are they stateful or stateless, can they be load-balanced, how are they made HA?
-   - ACE-Server
+   - [ACE-Server](puppet-enterprise/micro-architecture/ace-server.md)
    - Bolt-Server
    - Orchestration-services
    - PXP
