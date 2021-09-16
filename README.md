@@ -7,7 +7,7 @@
 - [Variables and scope](puppet/variables-and-scope.md)
 - [Data types](puppet/data-types.md)
 - [Defined types](puppet/defined-types.md)
-- Advanced function usage (lambdas)
+- [Advanced function usage (lambdas)](puppet/lambdas.md)
 - [Puppet-language functions](puppet/puppet-language-functions.md)
 - [Relationships and ordering](puppet/relationships-and-ordering.md)
 
