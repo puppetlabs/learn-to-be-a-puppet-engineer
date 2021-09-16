@@ -52,7 +52,7 @@
 - [Testing using Litmus](puppet-ruby/testing-using-litmus.md)
 - [Types and providers](puppet/types-and-providers.md)
 - Puppet faces?
-- Custom report processors?
+- [Custom report processors](puppet-ruby/custom-report-processors.md)
 - [Custom hiera backends](puppet-ruby/custom-hiera-backends.md)
 
 # Puppet Enterprise
