@@ -47,7 +47,7 @@
 ## Puppet-specific ruby
 
 - [Custom facts](puppet-ruby/custom-facts.md)
-- Custom functions
+- [Custom functions](puppet-ruby/custom-functions.md)
 - [Rspec-puppet and testing](puppet-ruby/rspec-puppet-testing.md)
 - [Testing using Litmus](puppet-ruby/testing-using-litmus.md)
 - [Types and providers](puppet/types-and-providers.md)
