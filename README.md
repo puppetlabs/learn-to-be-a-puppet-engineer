@@ -49,6 +49,7 @@
 - [Custom facts](puppet-ruby/custom-facts.md)
 - Custom functions
 - [Rspec-puppet and testing](puppet-ruby/rspec-puppet-testing.md)
+- [Testing using Litmus](puppet-ruby/testing-using-litmus.md)
 - [Types and providers](puppet/types-and-providers.md)
 - Puppet faces?
 - Custom report processors?
