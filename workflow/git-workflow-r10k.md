@@ -10,4 +10,4 @@ This is not really covered. Dylan usually makes sure to cover it on the whiteboa
 
 ## Other
 
-Dylan has tried to get as much detail as possible down on this page for [r10k-based workflows](https://confluence.puppetlabs.com/display/PS/Puppet+Workflows)
+PSEs should have studied [this page](https://confluence.puppetlabs.com/display/PS/Puppet+Workflows) and should be able to present it to GSWP and practitioner classes (or customers) in the form of a whiteboard session explaining what the different workflows could be and what might be the advantages and disadvantages of each.

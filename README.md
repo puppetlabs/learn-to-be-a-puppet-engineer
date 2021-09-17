@@ -7,7 +7,7 @@
 - [Variables and scope](puppet/variables-and-scope.md)
 - [Data types](puppet/data-types.md)
 - [Defined types](puppet/defined-types.md)
-- Advanced function usage (e.g. functions that accept lambdas)
+- [Advanced function usage (e.g. functions that accept lambdas)](puppet/lambdas.md)
 - [Puppet-language functions](puppet/puppet-language-functions.md)
 - [Relationships and ordering](puppet/relationships-and-ordering.md)
 
@@ -47,7 +47,7 @@
 ## Puppet-specific ruby
 
 - [Custom facts](puppet-ruby/custom-facts.md)
-- Custom functions
+- [Custom functions](puppet-ruby/custom-functions.md)
 - [Rspec-puppet and testing](puppet-ruby/rspec-puppet-testing.md)
 - [Testing using Litmus](puppet-ruby/testing-using-litmus.md)
 - [Types and providers](puppet/types-and-providers.md)
