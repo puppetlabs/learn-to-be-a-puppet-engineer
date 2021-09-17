@@ -7,7 +7,7 @@
 - [Variables and scope](puppet/variables-and-scope.md)
 - [Data types](puppet/data-types.md)
 - [Defined types](puppet/defined-types.md)
-- Advanced function usage (lambdas)
+- Advanced function usage (e.g. functions that accept lambdas)
 - [Puppet-language functions](puppet/puppet-language-functions.md)
 - [Relationships and ordering](puppet/relationships-and-ordering.md)
 
@@ -30,7 +30,7 @@
 
 - [Basic plan writing](plans/basic-plan-writing.md)
 - [Error handling in plans](plans/error-handling-in-plans.md)
-- [Scatter-gather, reduction](plans/scatter-gather-reduction.md)
+- [Dynamic target manipulation (i.e. changing the targeted nodes using in-plan logic)](plans/dynamic-target-manipulation.md)
 - [Returning data from a plan](plans/returning-data-from-plans.md)
 - [Composition of plans](plans/composition-of-plans.md) (plans that run plans)
 
@@ -90,6 +90,7 @@
 
 # Puppet Application Manager
 
+- Containers
 - [Kubernetes](pam/kubernetes.md)
 - [Installing CD4PE](pam/install-cd4pe.md)
 - [Installing Comply](pam/install-comply.md)
@@ -103,10 +104,34 @@
 - [Data separation using hiera](coding-best-practice/data-separation-using-hiera.md)
 - [Hiera hierarchy design](coding-best-practice/hiera-hierarchy-design.md)
 - [Handling of sensitive data](coding-best-practice/handling-sensitive-data.md)
+- PDK
 
 # Workflow
 
 - [Git workflows using r10k](workflow/git-workflow-r10k.md)
 - [Development Practices for Ops](workflow/dev-practices-for-ops.md)
 - [Workflows using CD4PE](workflow/workflows-using-cd4pe.md)
-- [Custom deployment policies to implement advanced deployments](workflow/custom-deployment-policies.md)
+- [CD4PE Custom deployment policies to implement advanced deployments](workflow/custom-deployment-policies.md)
+
+# OS Skills
+
+## Windows
+
+- General system administration
+- Deploying Chocolatey
+- Chocolatey Custom Packaging
+- DSC
+- Active Directory
+- WMI Providers
+- Privilege escalation
+- Powershell scripting
+
+## UNIX
+
+- General system administration
+- Service management frameworks (e.g. systemd)
+- Moving files between machines
+- Configuring package managers
+- Creating custom packages
+- Users and permissions
+- Scripting (Bash, Perl etc.)
