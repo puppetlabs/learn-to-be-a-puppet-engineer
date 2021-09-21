@@ -1,6 +1,6 @@
-# Scatter-gather, reduction
+# Dynamic Target Manipulation
 
-(i.e. leaving behind failed nodes but continuing with others) and other imperative orchestration techniques and other imperative orchestration techniques
+Scatter-gather, reduction (i.e. leaving behind failed nodes but continuing with others) and other imperative orchestration techniques.
 
 ## Documentation
 
