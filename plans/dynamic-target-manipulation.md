@@ -4,7 +4,8 @@ Scatter-gather, reduction (i.e. leaving behind failed nodes but continuing with 
 
 ## Documentation
 
-[The reboot plan does this](https://github.com/puppetlabs/puppetlabs-reboot/blob/main/plans/init.pp#L42)
+- [The `reboot` plan does this](https://github.com/puppetlabs/puppetlabs-reboot/blob/main/plans/init.pp#L42)
+- [As does the `pe_patch::group_patching`](https://github.com/puppetlabs/pe_patch/blob/main/plans/group_patching.pp#L80)
 
 This sort of logic will likely be more important when writing custom deployment policies than regular plans since for a custom deployment policy you might want to do things like,
 give a plan a set of 100 nodes to deploy to then do one of the following:
