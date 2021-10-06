@@ -68,7 +68,7 @@
    - PXP
    - [Puppetserver](puppet-enterprise/micro-architecture/puppet-server.md)
    - Console-services
-   - RBAC
+   - [RBAC](puppet-enterprise/micro-architecture/rbac.md)
    - [Certificate authority](puppet-enterprise/micro-architecture/certificate-authority.md)
    - [Puppetdb](puppet-enterprise/micro-architecture/puppet-db.md)
    - [Postgresql](puppet-enterprise/micro-architecture/postgresql.md)
