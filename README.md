@@ -16,7 +16,7 @@
 - [Resource idempotence](declarative/idempotence/)
 - Resource uniqueness
 - [The type, title and namevar of a resource](declarative/type-title-namevar.md)
-- The types and providers abstraction layer
+- [The types and providers abstraction layer](puppet/ral.md)
 - [Idempotent exec resources](declarative/idempotence/exec-resources.md)
 
 ## Tasks
@@ -50,7 +50,7 @@
 - [Custom functions](puppet-ruby/custom-functions.md)
 - [Rspec-puppet and testing](puppet-ruby/rspec-puppet-testing.md)
 - [Testing using Litmus](puppet-ruby/testing-using-litmus.md)
-- [Types and providers](puppet/types-and-providers.md)
+- [Types and providers](puppet-ruby/types-and-providers.md)
 - [Custom report processors](puppet-ruby/custom-report-processors.md)
 - [Custom hiera backends](puppet-ruby/custom-hiera-backends.md)
 - [Puppet faces?](puppet-ruby/puppet-faces.md)
