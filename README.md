@@ -65,9 +65,9 @@
    - [ACE-Server](puppet-enterprise/micro-architecture/ace-server.md)
    - Bolt-Server
    - [Orchestration-services](puppet-enterprise/micro-architecture/orchestration-services.md)
-   - PXP
+   - [PXP](puppet-enterprise/micro-architecture/pxp.md)
    - [Puppetserver](puppet-enterprise/micro-architecture/puppet-server.md)
-   - Console-services
+   - [Console-services](puppet-enterprise/micro-architecture/console-services.md)
    - [RBAC](puppet-enterprise/micro-architecture/rbac.md)
    - [Certificate authority](puppet-enterprise/micro-architecture/certificate-authority.md)
    - [Puppetdb](puppet-enterprise/micro-architecture/puppet-db.md)
