@@ -14,4 +14,4 @@ Definitely not covered.
 
 ## Other
 
-TBH I don't even really know what ACE does properly so I have no clue what we need to know about it
+TBH I don't even really khttps://puppet-kmo.gitbook.io/pe-deploy-and-discover/-Mi21RNRmfAP7onT0Kyl/now what ACE does properly so I have no clue what we need to know about it
