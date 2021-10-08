@@ -72,7 +72,7 @@
    - [Puppetdb](puppet-enterprise/micro-architecture/puppet-db.md)
    - [Postgresql](puppet-enterprise/micro-architecture/postgresql.md)
    - [Code manager](puppet-enterprise/micro-architecture/code-manager.md)
-   - File sync
+   - [File sync](puppet-enterprise/micro-architecture/file-sync.md)
 - Tuning and scaling, typical load patterns
 - Proxies and their effect on PE communications
 - Log location and how to configure more detailed logging
