@@ -39,7 +39,7 @@
 
 - Debugging & exploring ruby using [pry](http://pry.github.io/) (Use this to begin teaching people since they will be used to using a REPL and Pry is nice and UNIX-ey)
 - Conditional logic
-- Variables and scope
+- [Variables and scope](ruby/variables-and-scope.md)
 - Data types
 - Object-orientated programming
 
