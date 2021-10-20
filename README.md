@@ -23,7 +23,7 @@
 
 - [Passing parameters](tasks/passing-parameters.md)
 - [Passing parameters using powershell](tasks/passing-parameters-powershell.md)
-- Returning data from tasks
+- [Returning data from tasks](tasks/returning-dtata-from-tasks.md)
 - [Secure coding practices](tasks/secure-code-practices.md)
 
 ## Plans
