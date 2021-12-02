@@ -121,7 +121,7 @@ pry_instance.config.prompt_name = 'my_project_name'
 
 within each session, to easier distinguish them.
 
-It's also good to set your favourite editor, for example:
+It's also good to set your favorite editor, for example:
 
 ```ruby
 Pry.config.editor = 'nvim'
@@ -239,7 +239,7 @@ all of this is part of exploring and learning our tools' limits.
 
 #### Unicode
 
-Being innitially developed in Japan, Ruby has full-fledged Unicode support:
+Being initially developed in Japan, Ruby has full-fledged Unicode support:
 
 ```ruby
 [63] pry(main)> ć = :acute_c
@@ -256,7 +256,7 @@ This is because Ruby is an [Expression](https://en.wikipedia.org/wiki/Expression
 
 #### Conditions and Functions
 
-Since everything is an expression, conditionals are often (shortend and) used for assignment:
+Since everything is an expression, conditionals are often (shortened and) used for assignment:
 
 ```ruby
 [66] pry(main)> acute_c = :Ć if acute_c == :ć # toggle once
@@ -295,11 +295,11 @@ end
 => :Ć
 ```
 
-well, that's strange! It's almost as if our global `acute_c` and the `acute_c` in the function `toggle_acute_c` are completly independent!
+well, that's strange! It's almost as if our global `acute_c` and the `acute_c` in the function `toggle_acute_c` are completely independent!
 And they are!
 [Global variables](https://ruby-doc.org/docs/ruby-doc-bundle/UsersGuide/rg/globalvars.html) in Ruby need a `$` prefix, and they are very much [frowned upon](https://docs.rubocop.org/rubocop/cops_style.html#styleglobalvars).
 
-We'll look into better ways of dealing with Data and Scope later, but for now, let's just quickfix our code:
+We'll look into better ways of dealing with Data and Scope later, but for now, let's just quick-fix our code:
 
 ```ruby
 $acute_c = :Ć
@@ -465,7 +465,7 @@ By now, you may have noticed that everything in Ruby is an object.
 Ruby is a programming language in the tradition of [Smalltalk](http://wiki.c2.com/?SmalltalkLanguage).
 In Smalltalk, everything is an object, and objects pass messages to each other.
 
-Generally, Smalltalk takes this a step further and has no language keywords for condtionals and loops.
+Generally, Smalltalk takes this a step further and has no language keywords for conditionals and loops.
 They are instead messages (methods) on top of Boolean objects (with Syntactic Sugar).
 Whereas Ruby's other *initial* influence was Perl (and Unix).
 You can see this in the fact that Ruby has [`BEGIN`/`END` blocks](https://scoutapm.com/blog/ruby-begin-end) and in the fact that everything is file based, not image based, like in Smalltalk.
@@ -504,7 +504,7 @@ Let's look at `send` first:
 
 Oh computers… wouldn't it be nice, if they knew [how to… compute](https://floating-point-gui.de/)?
 
-The [`method_missing`] documentation has a beautiful example, unfortunately, the beef of the implementation is… missing. Left as excersise to the student, let's implement it!
+The [`method_missing`] documentation has a beautiful example, unfortunately, the beef of the implementation is… missing. Left as exercise to the student, let's implement it!
 By which I mean, search for "roman numerals to int" and copy the [first result](https://iq.opengenus.org/roman-to-integer/).
 You'll notice that the example is C++, but after today, that's nothing that'll stop us!
 
@@ -575,4 +575,4 @@ from (pry):48:in `*'
 
 ## That's all folks!
 
-Nex time We'll look into Puppet specific Ruby!
+Next time We'll look into Puppet specific Ruby!
