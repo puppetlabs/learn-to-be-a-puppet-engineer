@@ -37,7 +37,7 @@
 
 ## [Ruby basics](ruby/README.md)
 
-- Debugging & exploring ruby using [pry](http://pry.github.io/) (Use this to begin teaching people since they will be used to using a REPL and Pry is nice and UNIX-ey)
+- Debugging & [exploring ruby using pry](ruby/exploring-ruby-with-pry.md)
 - Conditional logic
 - [Variables and scope](ruby/variables-and-scope.md)
 - Data types
