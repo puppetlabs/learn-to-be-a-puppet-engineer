@@ -573,6 +573,48 @@ from (pry):48:in `*'
 [16] pry(main)>
 ```
 
+If you'd also like to give a slightly more meaningful Error message, an `else` to the `case` statement:
+
+```ruby
+    when 'm', 'M'
+      1000
+    else
+      raise(RangeError, "Invalid Roman numeral '#{i}' in '#{str}'")
+    end
+```
+
+but that still leaves us with a two level stack:
+
+```ruby
+[44] pry(main)> r.nvim
+NoMethodError: undefined method `nvim' for #<Roman:0x000056388092cde0>
+from pry-redefined(0x17c#method_missing):7:in `rescue in method_missing'
+Caused by RangeError: Invalid Roman numeral 'n' in 'nvim'
+from (pry):21:in `block in roman_to_int'
+[45] pry(main)>
+```
+
+so what we can do instead is reject this earlier, namely in `method_missing`:
+
+```ruby
+def method_missing(symbol, *args)
+  str = symbol.id2name
+  raise(RangeError, "Invalid roman numerals in `#{str}'") unless str.chars.all?(%r{[ivxlcdm]}i)
+  begin
+    roman_to_int(str)
+  rescue
+    super(symbol, *args)
+  end
+end
+```
+
+```ruby
+[49] pry(main)> r.nvim
+RangeError: Invalid roman numerals in `nvim'
+from pry-redefined(0x17c#method_missing):3:in `method_missing'
+[50] pry(main)>
+```
+
 ## That's all folks!
 
 Next time We'll look into Puppet specific Ruby!
