@@ -1,8 +1,4 @@
----
-breaks: false
-tags: learning, path
-title: A Puppet Learning Path
----
+# A Puppet Learning Path
 
 Learning Puppet means learning DevOps. To mean, that means Ops and Dev.
 Knowing Git, Programming and your OS, in addition to Linux, the ubuquitious Cloud OS is the baseline.
