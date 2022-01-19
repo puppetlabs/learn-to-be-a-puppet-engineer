@@ -1,7 +1,7 @@
 # A Puppet Learning Path
 
 Learning Puppet means learning DevOps. To mean, that means Ops and Dev.
-Knowing Git, Programming and your OS, in addition to Linux, the ubuquitious Cloud OS is the baseline.
+Knowing Git, Programming and your OS, in addition to Linux, the ubiquititious Cloud OS is the baseline.
 Much of our tooling, both Configuration Management, and (Workload) Orchestration are based around Promise theory.
 
 So the field is ever expanding.
@@ -15,7 +15,7 @@ This isn't clear, linear path. It can be meandering and looping. Here are some r
 
 ## Unix
 
-- ACloud Guru: [Linux Professional Insititute: System Administrator 101](https://learn.acloud.guru/course/8759d783-6e59-4000-8005-29397540f6c6/overview)
+- ACloud Guru: [Linux Professional Institute: System Administrator 101](https://learn.acloud.guru/course/8759d783-6e59-4000-8005-29397540f6c6/overview)
 - Applied: [Building Linux from Scratch](https://linuxfromscratch.org/lfs/read.html)
 - Beyond Linux: [The FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/)
 
@@ -43,10 +43,10 @@ TODO find something — anything! — on windows 😰
 
 ## Puppet
 
-- Learm Puppet: [Puppet Practice Labs](https://learn.puppet.com/practicelabcatalog)
+- Learn Puppet: [Puppet Practice Labs](https://learn.puppet.com/practicelabcatalog)
 - Learn Puppet: [Puppet Practitioner](https://learn.puppet.com/instructor-led-training/puppet-practitioner)
 - Learn Puppet: [Puppet Learning VM](https://puppet.com/try-puppet/puppet-learning-vm/)
-- Modelling Infrastructures with Puppet: [Designing system configs: roles & profiles]](https://puppet.com/docs/pe/latest/osp/designing_system_configs_roles_and_profiles.html)
+- Modeling Infrastructures with Puppet: [Designing system configs: roles & profiles]](https://puppet.com/docs/pe/latest/osp/designing_system_configs_roles_and_profiles.html)
 
 ## Puppet Enterprise
 
