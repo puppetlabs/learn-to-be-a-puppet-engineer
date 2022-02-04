@@ -67,11 +67,11 @@ TODO find something — anything! — on windows 😰
 
 ## Cloud
 
-Learn one of these in-depth, learn the others when needed. TODO: link good ACloudGuru courses on each of these:
+Learn one of these in-depth, learn the others when needed.
 
-- GCP
-- Azure
-- AWS
+- ACloud Guru: [GCP DevOps](https://learn.acloud.guru/learning-path/gcp-devops) and [GCP Architecture](https://learn.acloud.guru/learning-path/gcp-architecture)
+- ACloud Guru: [Azure DevOps](https://learn.acloud.guru/learning-path/azure-devops) and [Azure Architecture](https://learn.acloud.guru/learning-path/azure-architecture)
+- ACloud Guru: [AWS DevOps](https://learn.acloud.guru/learning-path/aws-devops) and [AWS Architect](https://learn.acloud.guru/learning-path/aws-architect)
 - OpenStack
 - VMWare
 
